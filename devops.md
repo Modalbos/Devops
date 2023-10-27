@@ -1,6 +1,6 @@
 # Devops
 
-![devops](Devopsimg.jpg)
+![devops](Devopsimg.png)
 
 **DevOps es un enfoque que ayuda a los equipos de desarrollo de software y de tecnología de la información (TI) a trabajar juntos de manera más efectiva.
 Se trata de usar prácticas, herramientas y una mentalidad colaborativa para automatizar y unir los procesos que ambos equipos comparten.
