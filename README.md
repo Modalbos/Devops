@@ -9,7 +9,7 @@
 [Devops](devops.md)
 
 ## Referncias
-[Administrador de sistemas](https://blog.desdelinux.net/wp-content/uploads/2018/12/sysadmin-administrador-sistemas-servidores-contenido-desdelinux-830x332.jpg)
+[Administrador de sistemas](https://www.unir.net/ingenieria/revista/administrador-sistemas/)
 [Desarrollador](https://standby.es/desarrollador/#:~:text=¿Qué%20es%20un%20desarrollador%3F,empresa%20o%20de%20forma%20independiente.)
 [Devops](https://www.atlassian.com/es/devops#:~:text=DevOps%20es%20un%20conjunto%20de,la%20automatización%20de%20la%20tecnología.)
 
